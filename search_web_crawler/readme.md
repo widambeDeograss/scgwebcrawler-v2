@@ -1,7 +1,7 @@
 <h1>
   <a href="http://196.192.78.28:8082/noberto/spiderweb.git">
     <!-- Please provide path to your logo here -->
-    <img src="logo/Untitled_design-removebg-preview.png" alt="spiderWeblogo" width="120" height="120">
+    <img src="logo/Untitled_design-removebg-preview.png" alt="" width="120" height="120">
   </a>
 <strong>Web Crawler</strong>
 </h1>
